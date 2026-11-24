@@ -1,0 +1,6 @@
+{
+  "name": "FolioDrop",
+  "description": "Architectural cloud file organizer, folder workspace, and instant clipboard vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
